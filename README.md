@@ -10,4 +10,4 @@ pnpm dev
 bun dev
 ```
 
-Open Postman and test Apis to see the result.
+Open Postman and test Apis to see the result of CRUD Operations.
